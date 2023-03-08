@@ -8,7 +8,7 @@ My name is Noah Kerner and I'm a Full-Stack software engineer.
 ### - 👨‍🎓 Currently Learning:
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=B1G-M0N3Y&count_private=true&theme=algolia) -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=B1G-M0N3Y&count_private=true&theme=algolia)
 <!--
 **B1G-M0N3Y/B1G-M0N3Y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
